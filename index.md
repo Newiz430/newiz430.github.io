@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to Newiz'z Homepage!
+title: Welcome to Newiz'z homepage!
 permalink: /
 ---
 
@@ -30,7 +30,7 @@ Deep Learning / AI novice with Python.
 
 ## Open-source Projects
 
-### [CellSegmentation](https://github.com/Newiz430/CellSegmentation) (2021-2022)
+#### [CellSegmentation](https://github.com/Newiz430/CellSegmentation) (2021-2022)
 
 A multi-stage auto-immunoquantitative analytical model based on Multiple Instance Learning for immune cell counting, localization and segmentation. 
 
@@ -38,11 +38,11 @@ Taking immunohistochemistry-stained digital cell images as input, the model is m
 
 This work has achieved 4th place in **Lymphocyte Assessment Hackathon** (LYSTO) Challenge. [Leaderboard](https://lysto.grand-challenge.org/evaluation/challenge/leaderboard/)
 
-### [SplicePredictor](https://github.com/Newiz430/SplicePredictor) (2021)
+#### [SplicePredictor](https://github.com/Newiz430/SplicePredictor) (2021)
 
 Finding functional sites in genetic DNA using the weight array model (WAM), Bayesian Network (BN), and Support Vector Machine (SVM), where it all began. 
 
-### [BlogBackground](https://github.com/Newiz430/BlogBackground) (2020)
+#### [BlogBackground](https://github.com/Newiz430/BlogBackground) (2020)
 
 A backend blog project based on MVC framework using PHP, MySQL and Smarty. 
 
