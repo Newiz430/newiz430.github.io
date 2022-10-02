@@ -1,4 +1,4 @@
-* Newiz'z homepage
+# Newiz'z homepage
 
 [https://newiz430.github.io](https://newiz430.github.io)
 

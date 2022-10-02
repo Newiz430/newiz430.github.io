@@ -55,7 +55,7 @@ A backend blog project based on MVC framework using PHP, MySQL and Smarty.
 ---
 
 <font color=grey>
-This page uses Jekyll theme <a href='http://jekyllthemes.org/themes/gitbook/'>Jekyll Gitbook</a> by <a href=https://github.com/sighingnow>sighingnow</a>.
+This page uses Jekyll theme <a href='http://jekyllthemes.org/themes/gitbook/'>Jekyll Gitbook</a> by <a href='https://github.com/sighingnow'>sighingnow</a>.
 </font>
 
 <br/>
