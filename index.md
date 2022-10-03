@@ -7,7 +7,7 @@ permalink: /
 ## Ziwen Zhao
 
 * Postgraduate in School of Computer Science and Technology, HUST, Wuhan
-* Bachelor of Bioinformatics \& minor bachelor of Computer Science of HUST, Wuhan
+* Bachelor of Bioinformatics & minor bachelor of Computer Science of HUST, Wuhan
 
 ## Worked & working on
 
