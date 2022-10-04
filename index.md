@@ -49,10 +49,16 @@ A backend blog project based on MVC framework using PHP, MySQL and Smarty.
 ## Contact
 
 Email: zwzhao@hust.edu.cn
+
 Gmail: justn582@gmail.com
+
 GitHub: [Newiz430](https://github.com/Newiz430)
+
 Facebook: [Newiz683](https://www.facebook.com/Newiz683)
+
 Twitter: [@newiz683](https://twitter.com/newiz683)
+
+Reddit: [u/newiZsti](https://www.reddit.com/user/newiZsti?utm_medium=android_app&utm_source=share)
 
 ## Trivia
 
