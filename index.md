@@ -13,7 +13,7 @@ permalink: /
 
 Deep Learning / AI novice with Python.
 
-* Graph Embedding
+* Networks & Graph Embedding
   * Graph Contrastive Learning (GCL)
 * Community Detection
 * Computer Vision
@@ -59,6 +59,8 @@ Facebook: [Newiz683](https://www.facebook.com/Newiz683)
 Twitter: [@newiz683](https://twitter.com/newiz683)
 
 Reddit: [u/newiZsti](https://www.reddit.com/user/newiZsti?utm_medium=android_app&utm_source=share)
+
+Zhihu: [Newiz](https://www.zhihu.com/people/just-now-18)
 
 ## Trivia
 
