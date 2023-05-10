@@ -1,6 +1,7 @@
             "sharing": {
                 "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"],
                 "facebook": true,
+                "facebook_link": "https://www.facebook.com/Newiz683",
                 "google": false,
                 "github": true,
                 "github_link": "https://github.com/Newiz430",
@@ -8,6 +9,7 @@
                 "telegram_link": "https://t.me",
                 "instapaper": false,
                 "twitter": true,
+                "twitter_link": "https://twitter.com/newiz683",
                 "vk": false,
                 "weibo": false
             },
