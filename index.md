@@ -22,7 +22,7 @@ permalink: /
 
 ## Open-source Projects
 
-#### [CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://github.com/HanChen-HUST/CSGCL) (IJCAI '23)
+#### [CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://github.com/HanChen-HUST/CSGCL) (IJCAI-23)
 
 A graph contrastive learning framework aiming to preserve community strength throughout the learning process. 
 
