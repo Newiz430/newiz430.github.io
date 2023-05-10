@@ -9,26 +9,24 @@ permalink: /
 * Postgraduate in School of Computer Science and Technology, HUST, Wuhan
 * Bachelor of Bioinformatics & minor bachelor of Computer Science of HUST, Wuhan
 
-## Worked & working on
+## Working on
 
-Deep Learning / AI novice with Python.
+* Graph Self-Supervised Learning
+* Graph Representation Learning
+* Social Networks
 
-* Networks & Graph Embedding
-  * Graph Contrastive Learning (GCL)
-* Community Detection
-* Computer Vision
-  * Head Pose Estimation
+## Worked on
+
+* Multiple Instance Learning (MIL)
 * Medical Image Processing
-  * Multiple Instance Learning (MIL)
-
-## Also interested in
-
-* Crawler in Python
-* PHP / Java
-* C++
-* MATLAB
 
 ## Open-source Projects
+
+#### [CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://github.com/HanChen-HUST/CSGCL) (IJCAI '23)
+
+A graph contrastive learning framework aiming to preserve community strength throughout the learning process. 
+
+Firstly, we present two novel graph augmentation methods, Communal Attribute Voting (CAV) and Communal Edge Dropping (CED), where the perturbations of node attributes and edges are guided by community strength. Secondly, we propose a dynamic ``Team-up'' contrastive learning scheme, where community strength is used to progressively fine-tune the contrastive objective. 
 
 #### [CellSegmentation](https://github.com/Newiz430/CellSegmentation) (2021-2022)
 
@@ -37,14 +35,6 @@ A multi-stage auto-immunoquantitative analytical model based on Multiple Instanc
 Taking immunohistochemistry-stained digital cell images as input, the model is merely supervised by positive cell counting labels and transforms whole-image (bag) level counting results into superpixel (instance) level classification results via the specifically designed adaptive top-k instance selection strategy.
 
 This work has achieved 4th place in **Lymphocyte Assessment Hackathon** (LYSTO) Challenge. [Leaderboard](https://lysto.grand-challenge.org/evaluation/challenge/leaderboard/)
-
-#### [SplicePredictor](https://github.com/Newiz430/SplicePredictor) (2021)
-
-Finding functional sites in genetic DNA using the weight array model (WAM), Bayesian Network (BN), and Support Vector Machine (SVM), where it all began. 
-
-#### [BlogBackground](https://github.com/Newiz430/BlogBackground) (2020)
-
-A backend blog project based on MVC framework using PHP, MySQL and Smarty. 
 
 ## Contact
 
