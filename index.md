@@ -28,7 +28,7 @@ A graph contrastive learning framework aiming to preserve community strength thr
 
 Firstly, we present two novel graph augmentation methods, Communal Attribute Voting (CAV) and Communal Edge Dropping (CED), where the perturbations of node attributes and edges are guided by community strength. Secondly, we propose a dynamic ``Team-up'' contrastive learning scheme, where community strength is used to progressively fine-tune the contrastive objective. 
 
-#### [CellSegmentation](https://github.com/Newiz430/CellSegmentation) (2021-2022)
+#### [Counting is All You Need: Weakly-Supervised Immunohistochemical Cell Segmentation and Localization by Numbers](https://github.com/Newiz430/CellSegmentation) (2021-2022)
 
 A multi-stage auto-immunoquantitative analytical model based on Multiple Instance Learning for immune cell counting, localization and segmentation. 
 
