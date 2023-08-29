@@ -6,8 +6,9 @@ permalink: /
 
 ## Ziwen Zhao
 
-* I'm now a postgraduate in School of Computer Science and Technology, HUST, Wuhan, advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)
-* I got my double B.E. degree of Bioinformatics & Computer Science in HUST, Wuhan
+* 2023.04: My first paper "[CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://arxiv.org/pdf/2305.04658.pdf)" w/ [Dr. Han Chen](https://github.com/HanChen-HUST) is accepted as an IJCAI-23 main track! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/628116694) for more!
+* 2022.09: I'm now a postgraduate in School of Computer Science and Technology, HUST, Wuhan, advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm).
+* 2022.06: I got my double B.E. degree of Bioinformatics & Computer Science in HUST, Wuhan.
 
 ## Working on
 
