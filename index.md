@@ -6,8 +6,8 @@ permalink: /
 
 ## Ziwen Zhao
 
-* Postgraduate in School of Computer Science and Technology, HUST, Wuhan
-* Bachelor of Bioinformatics & minor bachelor of Computer Science of HUST, Wuhan
+* I'm now a postgraduate in School of Computer Science and Technology, HUST, Wuhan, advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)
+* I got my double B.E. degree of Bioinformatics & Computer Science in HUST, Wuhan
 
 ## Working on
 
@@ -22,7 +22,7 @@ permalink: /
 
 ## Open-source Projects
 
-#### [CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://github.com/HanChen-HUST/CSGCL) (IJCAI-23)
+#### [CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://github.com/HanChen-HUST/CSGCL) (IJCAI-23 main track)
 
 A graph contrastive learning framework aiming to preserve community strength throughout the learning process. 
 
