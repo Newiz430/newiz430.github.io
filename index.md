@@ -16,7 +16,7 @@ I am now an M.S. student at the Intelligent and Distributed Computing Laboratory
 ## Publications
 
 #### [Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814) (WWW/TheWebConf'24 research track) ![Static Badge](https://img.shields.io/badge/CCF--A-blue)
-**Ziwen Zhao**, Yuhua Li, Yixiong Zou, Jiliang Tang, Ruixuan Li  [[Code]](https://github.com/Newiz430/Bandana) ~~[Blog]~~
+**Ziwen Zhao**, Yuhua Li, Yixiong Zou, Jiliang Tang, Ruixuan Li  [[Code]](https://github.com/Newiz430/Bandana) [[Blog]](https://zhuanlan.zhihu.com/p/681841195)
 
 We explore the non-discrete edge masking and prediction as a self-supervised GNN pre-training strategy. 
 
