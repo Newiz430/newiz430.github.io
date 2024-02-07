@@ -8,15 +8,15 @@ I am now an M.S. student at the Intelligent and Distributed Computing Laboratory
 
 ## News
 
-* 2024.01: My paper "Masked Graph Autoencoder with Non-discrete Bandwidths" is accepted as a research track in TheWebConf (WWW)'24! 
+* 2024.01: My paper "[Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/pdf/2402.03814.pdf)" is accepted as a research track in TheWebConf (WWW)'24! 
 * 2023.04: My first paper "[CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://arxiv.org/pdf/2305.04658.pdf)" w/ [Dr. Han Chen](https://github.com/HanChen-HUST) is accepted as a main track in IJCAI'23! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/628116694) for more!
 * 2022.09: I'm now a M.S. student at School of Computer Science and Technology, HUST, Wuhan.
 * 2022.06: I got my double B.E. degree in Bioinformatics & Computer Science at HUST, Wuhan.
 
 ## Publications
 
-#### Masked Graph Autoencoder with Non-discrete Bandwidths (WWW/TheWebConf'24 research track) ![Static Badge](https://img.shields.io/badge/CCF--A-blue)
-**Ziwen Zhao**, Yuhua Li, Yixiong Zou, Jiliang Tang, Ruixuan Li  ~~[Code]~~ ~~[Blog]~~
+#### [Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814) (WWW/TheWebConf'24 research track) ![Static Badge](https://img.shields.io/badge/CCF--A-blue)
+**Ziwen Zhao**, Yuhua Li, Yixiong Zou, Jiliang Tang, Ruixuan Li  [[Code]](https://github.com/Newiz430/Bandana) ~~[Blog]~~
 
 We explore the non-discrete edge masking and prediction as a self-supervised GNN pre-training strategy. 
 
