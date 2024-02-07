@@ -1,4 +1,4 @@
-# Newiz'z homepage
+# Ziwen Zhao
 
 [https://newiz430.github.io](https://newiz430.github.io)
 
