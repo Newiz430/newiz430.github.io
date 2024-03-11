@@ -10,7 +10,7 @@ permalink: /
 <img align="center" height="18" src="https://scholar.google.com/favicon.ico"> [Google Scholar](https://scholar.google.com/citations?user=Um4uQawAAAAJ) \|
 <img align="center" height="16" src="https://static.zhihu.com/heifetz/favicon.ico"> [Zhihu](https://www.zhihu.com/people/just-now-18) \|
 
-I am now an M.S. student at the Intelligent and Distributed Computing Laboratory ([IDC-Lab](https://idc.hust.edu.cn/)), [Huazhong University of Science and Technology (HUST), Wuhan](https://cs.hust.edu.cn) (advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)), majoring in Computer Science. My research interest lies in deep learning, weakly- and self-supervised learning, and graph mining.
+I am now an M.S. student at the Intelligent and Distributed Computing Laboratory ([IDC-Lab](https://idc.hust.edu.cn/)), [Huazhong University of Science and Technology (HUST), Wuhan](https://cs.hust.edu.cn) (advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)), majoring in Computer Science. My research interest lies in deep learning, graph mining, weakly- and self-supervised pre-training, especially the task generalization ability of graph knowledge.
 
 ## News
 
