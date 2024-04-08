@@ -39,7 +39,7 @@ A graph contrastive learning framework aiming to preserve community strength thr
 
 Firstly, we present two novel graph augmentation methods, Communal Attribute Voting (CAV) and Communal Edge Dropping (CED), where the perturbations of node attributes and edges are guided by community strength. Secondly, we propose a dynamic ''Team-up'' contrastive learning scheme, where community strength is used to progressively fine-tune the contrastive objective. CSGCL performs well on 3 different kinds of downstream graph tasks, indicating the task generalizability of community knowledge for graph models.
 
-#### [Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2403.16137) (<img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg">'24) ![Static Badge](https://img.shields.io/badge/survey-yellow)
+#### [A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137) (<img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg">'24) ![Static Badge](https://img.shields.io/badge/survey-yellow)
 **Ziwen Zhao**, Yuhua Li, Yixiong Zou, Ruixuan Li, Rui Zhang  [[Paper list]](https://github.com/Newiz430/Pretext)
 
 We present a new graph knowledge-based taxonomy (9 types, 25+ pretexts) to categorize self-supervised pre-training of graph foundation models, incl. GNNs, Graph Transformers, LLM-based graph models, and more.
