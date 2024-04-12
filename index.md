@@ -10,7 +10,6 @@ permalink: /
 <img align="center" height="18" src="https://scholar.google.com/favicon.ico"> [Google Scholar](https://scholar.google.com/citations?user=Um4uQawAAAAJ) \|
 <img align="center" height="18" src="https://dblp.org/img/favicon.ico"> [DBLP](https://dblp.org/pid/194/6903.html) \|
 <img align="center" height="18" src="https://static.licdn.com/aero-v1/sc/h/3loy7tajf3n0cho89wgg0fjre"> [LinkedIn](https://www.linkedin.com/in/ziwen-zhao-2454b2301) \|
-<img align="center" height="19" src="https://cdn.semanticscholar.org/3467f6265edeea1b/img/darkmode/favicon-32x32.png"> ~~Semantic Scholar~~ \|
 <img align="center" height="16" src="https://static.zhihu.com/heifetz/favicon.ico"> [Zhihu](https://www.zhihu.com/people/just-now-18) \|
 
 I am now an M.S. student at the Intelligent and Distributed Computing Laboratory ([IDC-Lab](https://idc.hust.edu.cn/)), [Huazhong University of Science and Technology (HUST), Wuhan](https://cs.hust.edu.cn) (advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)), majoring in Computer Science. My research interest lies in deep learning, graph mining, weakly- and self-supervised pre-training, especially the task generalization ability of graph knowledge.
