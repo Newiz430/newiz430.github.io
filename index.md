@@ -5,7 +5,7 @@ permalink: /
 ---
 
 \| <img align="center" height="17" src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png"> [Email](mailto:zwzhao@hust.edu.cn) \| 
-<img align="center" height="14" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> [Gmail](mailto:justn582@gmail.com) \|
+<img align="center" height="14" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> [Gmail](mailto:newiz1825@gmail.com) \|
 <img align="center" height="18" src="https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png"> [GitHub](https://github.com/Newiz430) \|
 <img align="center" height="18" src="https://scholar.google.com/favicon.ico"> [Google Scholar](https://scholar.google.com/citations?user=Um4uQawAAAAJ) \|
 <img align="center" height="18" src="https://dblp.org/img/favicon.ico"> [DBLP](https://dblp.org/pid/194/6903.html) \|
