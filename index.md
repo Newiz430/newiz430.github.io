@@ -16,6 +16,7 @@ I am now an M.S. student at the Intelligent and Distributed Computing Laboratory
 
 ## News
 
+* 2024.08: The survey "[A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" gets an update!
 * 2024.03: My first survey paper "[A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" is uploaded to <img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg"> as an ongoing project! Feel free to make suggestions!
 * 2024.01: My paper "[Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814)" is accepted as a research track in TheWebConf (WWW)'24! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/681841195) for more!
 * 2023.04: My first paper "[CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://arxiv.org/abs/2305.04658)" w/ [Dr. Han Chen](https://github.com/HanChen-HUST) is accepted as a main track in IJCAI'23! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/628116694) for more!
@@ -32,16 +33,16 @@ We explore the non-discrete edge masking and prediction as a self-supervised GNN
 The discrete edge masking and binary link reconstruction strategy of existing topological masked graph autoencoders (TopoRecs) is insufficient to learn topologically informative representations, including blocked message flows, vulnerability to over-smoothness, and suboptimal neighborhood discriminability. We propose a novel model coined Bandana, which utilizes non-discrete edge masks - "bandwidths" - sampled from a continuous Boltzmann-Gibbs probability distribution. Bandana's bandwidth masking and prediction strategy is theoretically connected to regularized denoising autoencoders and energy-based models (EBMs). Bandana outperforms traditional discrete TopoRecs on node classification, link prediction, as well as graph manifold learning.
 
 #### [CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://arxiv.org/abs/2305.04658) (IJCAI'23 main track) ![Static Badge](https://img.shields.io/badge/CCF--A-blue)
-Han Chen\*, **Ziwen Zhao\*** (Co-first author), Yuhua Li, Yixiong Zou, Ruixuan Li, Rui Zhang  [[Code]](https://github.com/HanChen-HUST/CSGCL) [[Blog]](https://zhuanlan.zhihu.com/p/628116694)
+Han Chen\*, **Ziwen Zhao\***, Yuhua Li, Yixiong Zou, Ruixuan Li, Rui Zhang  [[Code]](https://github.com/HanChen-HUST/CSGCL) [[Blog]](https://zhuanlan.zhihu.com/p/628116694)
 
 A graph contrastive learning framework aiming to preserve community strength throughout the learning process. 
 
 Firstly, we present two novel graph augmentation methods, Communal Attribute Voting (CAV) and Communal Edge Dropping (CED), where the perturbations of node attributes and edges are guided by community strength. Secondly, we propose a dynamic ''Team-up'' contrastive learning scheme, where community strength is used to progressively fine-tune the contrastive objective. CSGCL performs well on 3 different kinds of downstream graph tasks, indicating the task generalizability of community knowledge for graph models.
 
-#### [A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137) (<img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg">'24) ![Static Badge](https://img.shields.io/badge/survey-yellow)
-**Ziwen Zhao**, Yuhua Li, Yixiong Zou, Ruixuan Li, Rui Zhang  [[Paper list]](https://github.com/Newiz430/Pretext)
+#### [A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137) (<img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg">'24) ![Static Badge](https://img.shields.io/badge/survey-yellow)
+**Ziwen Zhao\***, Yixin Su\*, Yuhua Li, Yixiong Zou, Ruixuan Li, Rui Zhang  [[Paper list]](https://github.com/Newiz430/Pretext)
 
-We present a new graph knowledge-based taxonomy (9 types, 25+ pretexts) to categorize self-supervised pre-training of graph foundation models, incl. GNNs, Graph Transformers, LLM-based graph models, and more.
+We present a new graph knowledge-based taxonomy (9 types, 25+ pretexts) to categorize self-supervised GFMs, incl. GNNs, Graph Transformers, graph language models (GLMs), and more.
 
 ## Early Open-source Projects
 
