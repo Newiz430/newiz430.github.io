@@ -12,7 +12,7 @@ permalink: /
 <img align="center" height="18" src="https://static.licdn.com/aero-v1/sc/h/3loy7tajf3n0cho89wgg0fjre"> [LinkedIn](https://www.linkedin.com/in/ziwen-zhao-2454b2301) \|
 <img align="center" height="16" src="https://static.zhihu.com/heifetz/favicon.ico"> [Zhihu](https://www.zhihu.com/people/just-now-18) \|
 
-I am now an M.S. student at the Intelligent and Distributed Computing Laboratory ([IDC-Lab](https://idc.hust.edu.cn/)), [Huazhong University of Science and Technology (HUST), Wuhan](https://cs.hust.edu.cn) (advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)), majoring in Computer Science. My research interest lies in deep learning, graph mining, weakly- and self-supervised pre-training, especially the task generalization ability of graph knowledge.
+I am now a master student at the Intelligent and Distributed Computing Laboratory ([IDC-Lab](https://idc.hust.edu.cn/)), [Huazhong University of Science and Technology (HUST), Wuhan](https://cs.hust.edu.cn) (advised by [Prof. Yuhua Li](http://english.cs.hust.edu.cn/info/1701/1581.htm)), majoring in Computer Science. My research interest lies in deep learning, graph mining, weakly- and self-supervised pre-training, especially the task generalization ability of graph knowledge.
 
 ## News
 
@@ -21,7 +21,7 @@ I am now an M.S. student at the Intelligent and Distributed Computing Laboratory
 * 2024.03: My first survey paper "[A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" is uploaded to <img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg"> as an ongoing project! Feel free to make suggestions!
 * 2024.01: My paper "[Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814)" is accepted as a research track in TheWebConf (WWW)'24! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/681841195) for more!
 * 2023.04: My first paper "[CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://arxiv.org/abs/2305.04658)" w/ [Dr. Han Chen](https://github.com/HanChen-HUST) is accepted as a main track in IJCAI'23! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/628116694) for more!
-* 2022.09: I'm now an M.S. student at School of Computer Science and Technology, HUST, Wuhan.
+* 2022.09: I'm now a master student at School of Computer Science and Technology, HUST, Wuhan.
 * 2022.06: I got my double B.E. degree in Bioinformatics & Computer Science at HUST, Wuhan.
 
 ## Publications
