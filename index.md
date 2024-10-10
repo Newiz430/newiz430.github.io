@@ -16,6 +16,7 @@ I am now an M.S. student at the Intelligent and Distributed Computing Laboratory
 
 ## News
 
+* 2024.10: Got the 2024-2025 National Scholarship for postgraduates!
 * 2024.08: The survey "[A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" gets an update!
 * 2024.03: My first survey paper "[A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" is uploaded to <img align="center" height="18" src="https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg"> as an ongoing project! Feel free to make suggestions!
 * 2024.01: My paper "[Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814)" is accepted as a research track in TheWebConf (WWW)'24! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/681841195) for more!
