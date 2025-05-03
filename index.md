@@ -17,7 +17,6 @@ I am now a master student at the Intelligent and Distributed Computing Laborator
 
 * 2025.04: My survey paper "[A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" is accepted in TKDE! 
 * 2024.10: Got the 2024-2025 National Scholarship for postgraduates!
-* 2024.08: The survey "[A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective](https://arxiv.org/abs/2403.16137)" gets an update!
 * 2024.01: My paper "[Masked Graph Autoencoder with Non-discrete Bandwidths](https://arxiv.org/abs/2402.03814)" is accepted as a research track in TheWebConf (WWW)'24! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/681841195) for more!
 * 2023.04: My first paper "[CSGCL: Community-Strength-Enhanced Graph Contrastive Learning](https://arxiv.org/abs/2305.04658)" w/ [Dr. Han Chen](https://github.com/HanChen-HUST) is accepted as a main track in IJCAI'23! Read my [Chinese blog](https://zhuanlan.zhihu.com/p/628116694) for more!
 * 2022.09: I'm now a master student at School of Computer Science and Technology, HUST, Wuhan.
